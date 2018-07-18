@@ -1,6 +1,6 @@
-print("Hello abc")
-xxqws
-asdd
-sss
-abssssss
-xxx
+Hello
+one 
+two
+three
+four
+five
